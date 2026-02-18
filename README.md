@@ -1,6 +1,8 @@
 # backtest_lr
 Fast exact finite-sample back-testing for Value-at-Risk (VaR) models Use backtest_lr and backtest_all (ExactVaRTest) With (In) R Software
 
+https://www.youtube.com/watch?v=oQTxMp-7H9Q
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
